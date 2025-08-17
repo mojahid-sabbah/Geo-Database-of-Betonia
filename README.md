@@ -65,7 +65,18 @@ Developers – Evaluate land availability and usage constraints
 
 📸 Screenshots & Links
 
-![Parcel Map Preview](App 1.png)
+## 📸 Screenshots
+
+### App Preview  
+![App Screenshot 1](App%201.png)  
+![App Screenshot 2](App%202.png)  
+![App Screenshot 3](App%203.png)  
+
+### Dashboard  
+![Dashboard](dash.png)  
+
+### GIS Data  
+![Block Screenshot](Screenshot%202025-08-18%20002748.png)  
 
 🤝 Contributing
 
