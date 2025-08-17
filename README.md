@@ -66,17 +66,22 @@ Developers – Evaluate land availability and usage constraints
 📸 Screenshots & Links
 
 ## 📸 Screenshots
+ ArcGis Pro
 
-### App Preview  
-![App Screenshot 1](App%201.png)  
-![App Screenshot 2](App%202.png)  
-![App Screenshot 3](App%203.png)  
+![Screenshot 1](Screenshot%202025-08-18%20002053.png)
+![Screenshot 2](Screenshot%202025-08-18%20002404.png)
+![Screenshot 3](Screenshot%202025-08-18%20002716.png)
+![Screenshot 4](Screenshot%202025-08-18%20002748.png)
 
-### Dashboard  
-![Dashboard](dash.png)  
+web map
+![App Screenshot 1](App%201.png)
+![App Screenshot 2](App%202.png)
+![App Screenshot 3](App%203.png)
 
-### GIS Data  
-![Block Screenshot](Screenshot%202025-08-18%20002748.png)  
+
+simple Dashboard
+![Dashboard](dash.png)
+
 
 🤝 Contributing
 
